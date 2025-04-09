@@ -1,5 +1,7 @@
 name: "Birds"
 title: "SmBirding"
+base_url: https://github.com/joaoosalvador
+repository_url: https://github.com/joaoosalvador/smbirding
 description: |
   SmBirding
 output_dir: "docs"
