@@ -1,11 +1,12 @@
 name: "Birds"
-title: "SmBirding"
+title: "Página Inicial"
 description: |
   SmBirding
 output_dir: "docs"
+theme: temaaves.css
 navbar:
   right:
-    - text: "Home"
+    - text: "Página Inicial"
       href: index.html
     - text: "About"
       href: about.html

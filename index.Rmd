@@ -19,12 +19,13 @@ site: distill::distill_website
 
 Biólogo gradutado pela UNESP Rio Claro (2018), desde 2014 venho realizando trabalhos de levantamento e consultoria de avifauna em diversas regiões do Cerrado brasileiro.
 
-## Teste
+
+
 
 
 ## Cidades que atuo
 
-Botucatu-SP, Caconde-SP, Gália-SP, Ipeúna-SP, Itirapina-SP, Rio Claro-SP, São Manuel-SP.
+Barra Bonita-SP, Botucatu-SP, Caconde-SP, Gália-SP, Ipeúna-SP, Itirapina-SP, Rio Claro-SP, São Manuel-SP.
 
 
 
