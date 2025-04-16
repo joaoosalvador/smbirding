@@ -17,19 +17,14 @@ site: distill::distill_website
  
 ## Quem sou? 
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Biólogo gradutado pela UNESP Rio Claro (2018), desde 2014 venho realizando trabalhos de levantamento e consultoria de avifauna em diversas regiões do Cerrado brasileiro.
 
 ## Teste
 
 
 ## Cidades que atuo
 
-São Manuel, Botucatu
+Botucatu-SP, Caconde-SP, Gália-SP, Ipeúna-SP, Itirapina-SP, Rio Claro-SP, São Manuel-SP.
 
 
 
