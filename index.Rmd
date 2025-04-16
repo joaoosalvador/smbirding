@@ -1,21 +1,21 @@
 ---
-title: "Joao"
-image: "frank.jpg"
+title: "Aves da Cuesta Paulista"
+image: "images/urutau2.gif"
 links:
-  - label: LinkedIn
+  - label: <i class="fa-solid fa-binoculars"></i> Roteiros
     url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
-  - label: GitHub
+  - label: <i class="fa-solid fa-dove"></i> Aves da Cuesta
+    url: 'https://www.wikiaves.com.br/perfil_joaosalvador target="_blank"'
+  - label: <i class="fa-solid fa-microphone"></i> Depoimentos
     url: "https://github.com/"
-  - label: Email
+  - label: <i class="fa-solid fa-phone"></i> Contato
     url: "mailto:email@email.com"
 output:
   postcards::trestles 
 site: distill::distill_website
 ---
  
-## Bio
+## Quem sou? 
 
 Frank Hermosillo studies neural networks and their applications at Google 
 Brain. His research focuses on differentiable network pruning approximation and 
@@ -24,18 +24,12 @@ researchers who study machine learning, computer vision, and cognitive science.
 His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
 Times Magazine.
 
-## Education
+## Teste
 
-**Massachusetts Institute of Technology** | Cambridge, MA
 
-Ph.D. in Computer Science | September 2009 - May 2014
+## Cidades que atuo
 
-**The University of California, Berkeley** | Berkeley, CA
+São Manuel, Botucatu
 
-B.S. in Computer Science | September 2005 - May 2009
 
-## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
-
-**Netflix** | Research Scientist | June 2014 - December 2017
