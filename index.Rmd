@@ -10,6 +10,8 @@ links:
     url: "https://github.com/"
   - label: <i class="fa-solid fa-phone"></i> Contato
     url: "mailto:email@email.com"
+  - label: <i class="fa-brands fa-youtube"></i> Canal 
+    url: "https://www.youtube.com/avesdesaomanuel-sp6241"  
 output:
   postcards::trestles 
 site: distill::distill_website

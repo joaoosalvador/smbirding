@@ -15,7 +15,7 @@
 
 html {
   /*-- Main font sizes --*/
-  --title-size:      100px;
+  --title-size:      50px;
   --body-size:       20px;
   --code-size:       14px;
   --aside-size:      12px;
@@ -31,7 +31,7 @@ html {
   --mono-font:       monospace;
   --body-font:       sans-serif;
   --navbar-font:     sans-serif;  /* websites + blogs only */
-}
+  background-color: ##897761;}
 
 /*-- ARTICLE METADATA --*/
 d-byline {

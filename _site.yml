@@ -6,8 +6,18 @@ output_dir: "docs"
 theme: temaaves.css
 navbar:
   right:
-    - text: "Página Inicial"
-      href: index.html
-    - text: "About"
+    - text: "Sobre mim"
+      href: sobre.html
+    - text: "Roteiros"
       href: about.html
+    - text: "Voe conosco"
+      menu:
+        - text: "Curiosidades sobre a Cuesta"
+          href: roteiros.html
+        - text: " Aves da cuesta"
+          href: avesdacuesta.html
+        - text: "Depoimentos"
+          href: depoimentos.html
+        - text: "O quê é a Cuesta?"
+          href: cuesta.html
 output: distill::distill_article
